@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# DAY 1
 
-You can use the [editor on GitHub](https://github.com/IttiwatSri/SOAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 1.สหกรณ์ออมทรัพย์คืออะไร ? มีหน้าที่ทำอะไร ?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+สถาบันการเงินแบบหนึ่งที่มีสมาชิกเป็นบุคคลซึ่งมีอาชีพอย่างเดียวกันหรือที่อาศัยอยู่ในชุมชนเดียวกัน มีวัตถุประสงค์เพื่อส่งเสริมให้สมาชิกรู้จักการออมทรัพย์ และให้กู้ยืมเมื่อเกิดความจำเป็นหรือเพื่อก่อให้เกิดประโยชน์งอกเงยและได้รับการจดทะเบียนตามพระราชบัญญัติสหกรณ์ สามารถกู้ยืมเงินได้เมื่อเกิดความจำเป็นตาม หลักการช่วยตนเอง และช่วยเหลือซึ่งกันและกัน
 
-### Markdown
+เพื่อส่งเสริมการออมทรัพย์ โดยการับฝากเงินและให้ผลตอบแทน ในรูป ของดอกเบี้ยอัตราเดียวกับธนาคารพาณิชย์ และโดยการถือหุ้นหัก ณ ที่จ่าย เป็นรายเดือน แต่ไม่เกิน 1 ใน 5 ของหุ้นทั้งหมด เมื่อสิ้นปีทางบัญชีต้อง จ่ายเงินปันผลค่าหุ้นให้แก่สมาชิกในอัตราที่กฎหมายกำหนด รวมทั้ง ให้บริการด้านเงินกู้แก่สมาชิกตามความจำเป็น
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.บริษัท SO-AT เรามี Product อะไรบ้างและลูกค้าส่วนใหญ่คือกลุ่มธุรกิจประเภทอะไร ?
 
-```markdown
-Syntax highlighted code block
+COOP CORE Solution
+ATM-Online
+Web Info/Member
+AD-Sync
+Mobile App
+SMS-Alert
+Hardware
+Antivirus System
+Firewall System
+Calculate Loan
 
-# Header 1
-## Header 2
-### Header 3
+ประเภทที่เกี่ยวกับระบบสหกรณ์
 
-- Bulleted
-- List
+### 3.บริษัทคู่แข่งของ SO-AT เรามีเจ้าไหนบ้างและเรามีกลยุทธุ์อะไรที่คิดว่าจะเอาชนะคู่แข่งได้บ้าง ?
 
-1. Numbered
-2. List
+บริษัทที่ทำเกี่ยวกับแอฟพลิเคชั่นสหกรณ์ออมทรัพย์
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IttiwatSri/SOAT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+การพัฒนาแอปพลิเคชั่นให้สวย ดูดี สะดวกในการใช้งาน ทันสมัย อยู่ตลอด
